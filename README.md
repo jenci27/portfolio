@@ -8,7 +8,7 @@
 
 ## 🚀 Live Portfolio
 
-🎯 **Live Site**: [🌐 View Portfolio](https://yourusername.github.io/portfolio/)  
+🎯 **Live Site**: [🌐 View Portfolio](https://jenci27.github.io/portfolio/)  
 📁 **Repo**: [📦 JENCITOPIYA/portfolio]( https://jenci27.github.io/portfolio)
 
 ---
