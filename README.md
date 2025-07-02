@@ -32,10 +32,10 @@ FastAPI · LangChain · OpenAI · Qdrant · Flask · HTML/CSS · JS · Python
 
 | 🌟 Project Name | ⚙️ Tech Stack | 🔎 Description |
 |----------------|---------------|----------------|
-| **School Bus Tracking System** | HTML, CSS, JavaScript | 
-| **Crime Data Analysis** | HTML, CSS, JavaScript | 
-| **Virtual Classroom** | HTML, CSS, JavaScript | 
-| **Online Notes Sharing System** | HTML, CSS, JavaScript | 
+| **School Bus Tracking System** | HTML, CSS, JavaScript | A system to track school buses in real-time for parents and admins. |
+| **Crime Data Analysis** | HTML, CSS, JavaScript | A dashboard to visualize crime trends across locations. |
+| **Virtual Classroom** | HTML, CSS, JavaScript | A platform for students and teachers to share learning materials. |
+| **Online Notes Sharing System** | HTML, CSS, JavaScript | A web app to upload and download academic notes easily. |
 
 ---
 
